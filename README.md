@@ -92,3 +92,5 @@ Các phần còn cần triển khai hoặc phụ thuộc tích hợp bên ngoài
 ```
 
 Chạy `php artisan migrate` để đồng bộ các migration mới với database trong `.env`.
+#   d i e m d a n h  
+ 
